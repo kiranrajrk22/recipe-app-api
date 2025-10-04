@@ -15,4 +15,3 @@ def subtract(x, y):
     Subtracts x from y and returns the result.
     """
     return y - x
-

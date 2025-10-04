@@ -14,3 +14,4 @@ class CalcTests(SimpleTestCase):
         """Test subtracting numbers."""
         res = calc.subtract(5, 10)
         self.assertEqual(res, 5)
+    
